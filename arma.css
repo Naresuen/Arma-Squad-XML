@@ -1,0 +1,181 @@
+body
+{
+	font-family: 'Black Ops One', cursive;
+	background-image: url("camouflage-texture.jpg");
+	background-color:#eaece5;
+	margin:0px;
+}
+
+a:link 
+{ 
+	text-decoration:none; 
+	color:#800000; 
+}
+a:visited 
+{
+	text-decoration:none; 
+	color:#800000; 
+}
+a:hover 
+{ 
+	text-decoration:none; 
+	color:#ffffff;
+}
+a:active 
+{ 
+	text-decoration:none; 
+}
+a:focus { 
+	text-decoration:none; 
+}
+
+th
+{
+	background-color:#aeb399; 
+	font-size:10pt;
+	font-weight:bold;
+	padding:4px;
+}
+
+tr.one
+{
+	background-color:#dde4c3;
+	width:100%;
+	padding:4px;
+}
+tr.two
+{
+	background-color:#d2d9b8;
+	width:100%;
+	padding:4px;
+}
+td.one
+{
+	background-color:#aeb399;
+	width:100%;
+}
+td.two
+{
+	background-color:#e2e9c7;
+	width:100%;
+}
+.main
+{
+	text-align:center;
+	width:100%;
+	border:0px solid #333333;
+}
+div.sqd_name
+{
+	text-align:center;
+	font-family: 'Black Ops One', cursive;
+	font-size:26pt;
+	font-weight:bold;
+}
+div.sqd_title
+{
+	text-align:center;
+	font-size:10pt;
+}
+div.sqd_logo
+{
+	text-align:center;
+	font-size:8pt;
+	padding:5px;
+}
+.sqd_info
+{
+	border:1px dotted darkgrey;
+	width:100%;
+	padding:0px;
+	border-spacing:0px;
+}
+.sqd_website
+{
+	font-size:10pt;
+	text-align:center;
+	background-color:#aeb399;
+	width:100%;
+	padding:4px;
+	border-spacing:0px;
+	font-family: 'Black Ops One', cursive;
+}
+.sqd_email
+{
+	font-size:10pt;
+	text-align:center;
+	background-color:#aeb399;
+	width:100%;
+	padding:4px;
+	border-spacing:0px;
+
+}
+.left-row
+{
+	vertical-align:top;
+	height:100%;
+}
+.right-row
+{
+	vertical-align:top;
+	height:100%;
+}
+.member_info
+{
+	border:1px dotted darkgrey;
+	width:100%;
+	padding:0px;
+	border-spacing:0px;
+}
+.member_name
+{
+	color:black;
+	font-size:10pt;
+	padding:4px;
+}
+.member_email
+{
+	color:black;
+	font-size:8pt;
+	padding:4px;
+}
+.member_icq
+{
+	color:black;
+	font-size:8pt;
+	padding:4px;
+}
+.member_remark
+{
+	font-family: 'Black Ops One', cursive;
+	color:black;
+	font-size:8pt;
+}
+
+#logo
+{
+	width: 256px;
+
+}
+
+.email
+{
+	font-size:16pt;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Black Ops One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Black Ops One'), local('BlackOpsOne-Regular'), url(http://fonts.gstatic.com/s/blackopsone/v7/2XW-DmDsGbDLE372KrMW1X1PgMwFt2V-WJ2uOZ4WXLU.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Black Ops One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Black Ops One'), local('BlackOpsOne-Regular'), url(http://fonts.gstatic.com/s/blackopsone/v7/2XW-DmDsGbDLE372KrMW1Y7-IV3CRdkqJ4YzT5HSiaw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}

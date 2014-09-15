@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "arma.dtd">
+<?xml-stylesheet href="arma.xsl?" type="text/xsl"?>
+<squad nick="Scimitar">
+    <name>Scimitar Company</name>
+    <email>info@scimitar-company.org</email>
+    <web>http://scimitar-company.org/</web>
+    <picture>a1e2164f72ba758cb8ccc924cebe8d5c.paa</picture>
+    <title>&quot;Nunquam Imparatum - Aut Viam Inveniam Aut Faciam&quot;</title>
+            <member id="12345678900000001" nick="YoYoPete">
+				<name>YoYo-Pete</name>
+				<email>yoyo.pete@gmail.com</email>
+				<icq>N/A</icq>
+				<remark>Initiative is doing the right thing without being told.</remark>
+			</member>	
+            <member id="12345678900000002" nick="Cease">
+				<name>C&#039;s</name>
+				<email>N/A</email>
+				<icq>N/A</icq>
+				<remark>You will &#039;Cease&#039; to exist</remark>
+			</member>
+    </squad>
